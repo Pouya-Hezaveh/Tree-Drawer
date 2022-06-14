@@ -9,4 +9,4 @@ Note: Do not forget to enter the desired number of branches in the console.
 for example, in the image above, the input is 6)  
 
 Sources:  
-1- StdDraw Library: https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java  
+1- StdDraw.java Library: https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java  
