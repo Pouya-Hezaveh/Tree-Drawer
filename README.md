@@ -8,6 +8,7 @@ Note: Do not forget to enter the desired number of branches in the console.
 (It is recommended that a number be greater than 1 and less than 10;  
 for example, in the image above, the input is 6)  
 While running the main function in the main.java file, the canvas window will be displayed.
+The canvas window will be displayed when the function StdDraw.setCanvasSize() (which is located in main function in the main.java file) runs.
 
 Sources:  
 1- StdDraw.java Library: https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java  
