@@ -11,4 +11,4 @@ While running the main function in the main.java file, the canvas window will be
 The canvas window will be displayed when the function StdDraw.setCanvasSize() runs.
 
 Sources:  
-1- StdDraw.java Library: https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java  
+1- StdDraw.java file of Standard Library: https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java  
